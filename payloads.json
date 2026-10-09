@@ -16,7 +16,7 @@
     {
       "name": "onionHEN Beta",
       "filename": "onionHEN_Beta_v0.0.13.elf",
-      "url": "https://github.com/itsPLK/ps5-payloads-mirror/releases/download/payloads-mirror/onionHEN_v0.0.13.elf",
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf",
       "source": "https://github.com/aydencharles/onionHEN/releases",
       "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf",
       "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
