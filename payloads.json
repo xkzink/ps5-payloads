@@ -2,7 +2,7 @@
   "name": "Custom",
   "payloads": [
     {
-      "name": "ShadowMountPlus",
+      "name": "ShadowMountPlus Beta",
       "filename": "ShadowMountPlus_1.7beta4.elf",
       "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta4/shadowmountplus.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
