@@ -10,7 +10,7 @@
       "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
       "last_update": "2026-10-03",
       "version": "1.7beta4",
-      "category": "Pre-releases",
+      "category": "Latest",
       "checksum": "fc4e5f715e76660ce34bde2adb10eaf1d069cb2cdf06f7a380896dfb62bd0c4a"
     },
     {
@@ -22,7 +22,7 @@
       "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
       "last_update": "2026-10-07",
       "version": "v0.9.0-beta2",
-      "category": "Pre-releases",
+      "category": "Latest",
       "checksum": "dd2e78af126d9d115df147a0f2bff6269de7a3eee5a556e06b6c21726a36f087"
     },
     {
@@ -34,7 +34,7 @@
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
       "last_update": "2026-10-09",
       "version": "v6.7.0",
-      "category": "Tools",
+      "category": "Latest",
       "checksum": "37b5bd387013539c7e951edd363d9118acbeb24b0ef55137ed351422e52bb749"
     }
   ]
