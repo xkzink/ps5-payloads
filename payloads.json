@@ -15,15 +15,15 @@
     },
     {
       "name": "onionHEN Beta",
-      "filename": "onionHEN_Beta_v0.0.13.elf",
-      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf",
+      "filename": "onionHEN_Beta_v0.9.0-beta2.elf",
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0-beta2/OnionHEN.elf",
       "source": "https://github.com/aydencharles/onionHEN/releases",
-      "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.0.13/OnionHEN.elf",
+      "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0-beta2/OnionHEN.elf",
       "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
-      "last_update": "2026-09-11",
-      "version": "v0.0.13",
+      "last_update": "2026-10-07",
+      "version": "v0.9.0-beta2",
       "category": "Pre-releases",
-      "checksum": "aa3f98847948e2ae8ea600c3f437e28247a0a4f8b73651a046d2859924bf97b3"
+      "checksum": "dd2e78af126d9d115df147a0f2bff6269de7a3eee5a556e06b6c21726a36f087"
     }
   ]
 }
