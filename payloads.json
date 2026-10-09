@@ -27,15 +27,15 @@
     },
     {
       "name": "PS5 Upload",
-      "filename": "ps5upload_v6.7.0.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v6.7.0/ps5upload-6.7.0.elf",
+      "filename": "ps5upload_v6.7.3.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v6.7.3/ps5upload-6.7.3.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v6.7.0/ps5upload-6.7.0.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v6.7.3/ps5upload-6.7.3.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
       "last_update": "2026-10-09",
-      "version": "v6.7.0",
+      "version": "v6.7.3",
       "category": "Latest",
-      "checksum": "37b5bd387013539c7e951edd363d9118acbeb24b0ef55137ed351422e52bb749"
+      "checksum": "468740692643ecef083da7d761169c09accec4f43b199a64df9c394ecd6b5df3"
     }
   ]
 }
