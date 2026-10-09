@@ -4,14 +4,14 @@ import argparse
 import hashlib
 import json
 import os
-from pathlib import Path
 import re
+from pathlib import Path
 from urllib.request import Request, urlopen
-
 
 ASSETS = {
     "drakmor/ShadowMountPlus": "shadowmountplus.elf",
     "aydencharles/onionHEN": "OnionHEN.elf",
+    "phantomptr/ps5upload": "ps5upload-{version}.elf",
 }
 
 
@@ -62,16 +62,15 @@ def updated_payload(payload, release, asset_name):
     if not re.fullmatch(r"v?\d[\w.\-]*", tag, flags=re.ASCII):
         raise ValueError(f"Unsupported version tag: {tag!r}")
 
+    asset_name = asset_name.format(version=tag.removeprefix("v"))
     assets = [a for a in release["assets"] if a["name"].lower() == asset_name.lower()]
     if len(assets) != 1:
         raise ValueError(f"Expected one {asset_name} asset in release {tag}")
     asset = assets[0]
 
-    # Keep the custom family name so it cannot collide with the official build.
+    # Preserve the filename family when updating the release version.
     stem = Path(payload["filename"]).stem
     prefix = re.split(r"[_-]v?\d", stem, maxsplit=1, flags=re.IGNORECASE)[0]
-    if prefix in ("ShadowMountPlus", "onionHEN", "onionhen"):
-        raise ValueError(f"Filename needs a distinct custom prefix: {payload['filename']}")
 
     result = dict(payload)
     result.update(
@@ -90,8 +89,12 @@ def update_catalog(path):
     updated = []
     for payload in catalog["payloads"]:
         repository = next(
-            (repo for repo in ASSETS
-             if payload.get("source", "").rstrip("/") == f"https://github.com/{repo}/releases"),
+            (
+                repo
+                for repo in ASSETS
+                if payload.get("source", "").rstrip("/")
+                == f"https://github.com/{repo}/releases"
+            ),
             None,
         )
         if repository is None:
@@ -102,7 +105,7 @@ def update_catalog(path):
         print(f"{payload['name']}: {payload['version']} -> {item['version']}")
         updated.append(item)
 
-    # Finish both upstream checks before writing, so failures leave the catalog intact.
+    # Finish all upstream checks before writing, so failures leave the catalog intact.
     if updated == catalog["payloads"]:
         print("Catalog is already up to date.")
         return False
