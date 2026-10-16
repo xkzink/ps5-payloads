@@ -15,27 +15,27 @@
     },
     {
       "name": "onionHEN",
-      "filename": "onionHEN_v0.9.0-beta2.elf",
-      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0-beta2/OnionHEN.elf",
+      "filename": "onionHEN_v0.9.0.elf",
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0/OnionHEN.elf",
       "source": "https://github.com/aydencharles/onionHEN/releases",
-      "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0-beta2/OnionHEN.elf",
+      "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0/OnionHEN.elf",
       "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
-      "last_update": "2026-10-07",
-      "version": "v0.9.0-beta2",
+      "last_update": "2026-10-15",
+      "version": "v0.9.0",
       "category": "Latest",
-      "checksum": "dd2e78af126d9d115df147a0f2bff6269de7a3eee5a556e06b6c21726a36f087"
+      "checksum": "1f1f7c883d5d998be1d95d7d80b718f85180f8156f257661b0f445a7c6b7c212"
     },
     {
       "name": "PS5 Upload",
-      "filename": "ps5upload_v7.0.22.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.22/ps5upload-7.0.22.elf",
+      "filename": "ps5upload_v7.0.26.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.26/ps5upload-7.0.26.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.22/ps5upload-7.0.22.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.0.26/ps5upload-7.0.26.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
-      "last_update": "2026-10-12",
-      "version": "v7.0.22",
+      "last_update": "2026-10-16",
+      "version": "v7.0.26",
       "category": "Latest",
-      "checksum": "e382353612fdf85b2fdbfea75f4f5ebad260c767faa51b0446118646a6db0267"
+      "checksum": "9b08d5a3849a10209be028b63c07a181b10fd146a7cf94fd3185f328e68dea01"
     }
   ]
 }
