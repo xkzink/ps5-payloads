@@ -3,15 +3,15 @@
   "payloads": [
     {
       "name": "ShadowMountPlus",
-      "filename": "ShadowMountPlus_1.7-beta5fix1.elf",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7-beta5fix1/shadowmountplus.elf",
+      "filename": "ShadowMountPlus_1.7beta6-fix2.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta6-fix2/shadowmountplus.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7-beta5fix1/shadowmountplus.elf",
+      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta6-fix2/shadowmountplus.elf",
       "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
-      "last_update": "2026-10-10",
-      "version": "1.7-beta5fix1",
+      "last_update": "2026-10-21",
+      "version": "1.7beta6-fix2",
       "category": "Latest",
-      "checksum": "e85fd63b705498488f39c09c9aea6f9fa22e0df2e932865de49a8cedf25172d5"
+      "checksum": "ec87ad20f78be2d7cb82e9d77e72352b079e049baac3c1a211960ccd6f252e62"
     },
     {
       "name": "onionHEN",
@@ -27,15 +27,15 @@
     },
     {
       "name": "PS5 Upload",
-      "filename": "ps5upload_v7.1.9.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.9/ps5upload-7.1.9.elf",
+      "filename": "ps5upload_v7.1.10.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.10/ps5upload-7.1.10.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.9/ps5upload-7.1.9.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.10/ps5upload-7.1.10.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
-      "last_update": "2026-10-19",
-      "version": "v7.1.9",
+      "last_update": "2026-10-20",
+      "version": "v7.1.10",
       "category": "Latest",
-      "checksum": "a9674bd22737688783c1857817d032ddf2fd5ca4e750eea17175428556271141"
+      "checksum": "0025ee8d5ac9b660e8bc0ee98e42675ddd69b39c58ce71ff5ac0fb97de1a6040"
     }
   ]
 }
