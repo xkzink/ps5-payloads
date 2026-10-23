@@ -26,6 +26,7 @@
       "checksum": "1f1f7c883d5d998be1d95d7d80b718f85180f8156f257661b0f445a7c6b7c212"
     },
     {
+      "id": "ps5upload",
       "name": "PS5 Upload",
       "filename": "ps5upload_v7.1.18.elf",
       "url": "https://github.com/phantomptr/ps5upload/releases/download/v7.1.18/ps5upload-7.1.18.elf",
