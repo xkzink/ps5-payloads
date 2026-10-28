@@ -3,15 +3,15 @@
   "payloads": [
     {
       "name": "ShadowMountPlus",
-      "filename": "ShadowMountPlus_1.7beta8.elf",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta8/shadowmountplus.elf",
+      "filename": "ShadowMountPlus_1.7beta9.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta9/shadowmountplus.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta8/shadowmountplus.elf",
+      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta9/shadowmountplus.elf",
       "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
-      "last_update": "2026-10-26",
-      "version": "1.7beta8",
+      "last_update": "2026-10-27",
+      "version": "1.7beta9",
       "category": "Latest",
-      "checksum": "7163472217a2390f5bcbe3b61a96963976f7b7bd84d960b8d926f35b9cbecf28"
+      "checksum": "928a5a7e33d2801c1c14a5ed8ad83fcab07957ba3a5daccd382dba67d408b3e2"
     },
     {
       "name": "onionHEN",
@@ -28,15 +28,15 @@
     {
       "id": "ps5upload",
       "name": "PS5 Upload",
-      "filename": "ps5upload_v8.4.0.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v8.4.0/ps5upload-8.4.0.elf",
+      "filename": "ps5upload_v8.5.1.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v8.5.1/ps5upload-8.5.1.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v8.4.0/ps5upload-8.4.0.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v8.5.1/ps5upload-8.5.1.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
       "last_update": "2026-10-27",
-      "version": "v8.4.0",
+      "version": "v8.5.1",
       "category": "Latest",
-      "checksum": "09c09071b8ac031ef91f9a81911894a04bb5b48aad2b278995b981e772706f38"
+      "checksum": "2039eb340f6c09f7fce6bd726ad526adb68e9e924351b21dba74720025267481"
     }
   ]
 }
