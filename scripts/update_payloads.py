@@ -12,6 +12,7 @@ ASSETS = {
     "drakmor/ShadowMountPlus": "shadowmountplus.elf",
     "aydencharles/onionHEN": "OnionHEN.elf",
     "phantomptr/ps5upload": "ps5upload-{version}.elf",
+    "saawant12/orbit-store-ps5": "orbit_store.elf",
 }
 
 
