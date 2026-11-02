@@ -28,28 +28,28 @@
     {
       "id": "ps5upload",
       "name": "PS5 Upload",
-      "filename": "ps5upload_v10.3.0.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v10.3.0/ps5upload-10.3.0.elf",
+      "filename": "ps5upload_v10.7.1.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v10.7.1/ps5upload-10.7.1.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v10.3.0/ps5upload-10.3.0.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v10.7.1/ps5upload-10.7.1.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
-      "last_update": "2026-11-01",
-      "version": "v10.3.0",
+      "last_update": "2026-11-02",
+      "version": "v10.7.1",
       "category": "Latest",
-      "checksum": "e3da25330b0b3aeba1ad1eab628726a7b7526bd2be2d5f9a40dba59527dfb155"
+      "checksum": "db65ec2b61a6532620eb7b941cf378dadd11a254f05e1dd7b545911f65bfe49e"
     },
     {
       "id": "orbit-store-ps5",
       "name": "Orbit Store (Beta)",
-      "filename": "orbit_store_v1.8.2.elf",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.2/orbit_store.elf",
+      "filename": "orbit_store_v1.8.3.elf",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.3/orbit_store.elf",
       "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-      "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.2/orbit_store.elf",
+      "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.8.3/orbit_store.elf",
       "description": "A PS5 download manager with a browser interface and phone controls.",
-      "last_update": "2026-10-31",
-      "version": "v1.8.2",
+      "last_update": "2026-11-01",
+      "version": "v1.8.3",
       "category": "Latest",
-      "checksum": "134cedb380b39f5a010beb1a0834cebb2192ea0e5749c13675b3a64b6dfd3996"
+      "checksum": "59e216d7d5b163a14c8f7ac8fce4962b0af04541a1724236e0efb216a882e124"
     }
   ]
 }
