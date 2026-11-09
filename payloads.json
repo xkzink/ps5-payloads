@@ -3,15 +3,15 @@
   "payloads": [
     {
       "name": "ShadowMountPlus",
-      "filename": "ShadowMountPlus_1.7beta11.elf",
-      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta11/shadowmountplus.elf",
+      "filename": "ShadowMountPlus_1.7beta12.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta12/shadowmountplus.elf",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases",
-      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta11/shadowmountplus.elf",
+      "source_direct": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta12/shadowmountplus.elf",
       "description": "A fully automated, background 'Auto-Mounter' payload for Jailbroken PlayStation 5 consoles.",
-      "last_update": "2026-10-29",
-      "version": "1.7beta11",
+      "last_update": "2026-11-08",
+      "version": "1.7beta12",
       "category": "Latest",
-      "checksum": "08c843018750bef013fe3a4de5f80c5c9738c6c2dafa2406e6b6e68d7585f3da"
+      "checksum": "8755172ec9bef1bff5453ea75606e0caf7c41b5963f94f5a1087e7e8c6d9b1bd"
     },
     {
       "name": "onionHEN",
@@ -28,15 +28,15 @@
     {
       "id": "ps5upload",
       "name": "PS5 Upload",
-      "filename": "ps5upload_v11.5.2.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v11.5.2/ps5upload-11.5.2.elf",
+      "filename": "ps5upload_v12.1.0.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.1.0/ps5upload-12.1.0.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v11.5.2/ps5upload-11.5.2.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.1.0/ps5upload-12.1.0.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
-      "last_update": "2026-11-07",
-      "version": "v11.5.2",
+      "last_update": "2026-11-09",
+      "version": "v12.1.0",
       "category": "Latest",
-      "checksum": "1c2a6fe82de8438219c01c8c866deffd2b88ec3896bccb649601ef1fe1bc84c5"
+      "checksum": "c7235dc594c00e04fa0d946ffe18ca3d93d8505affd621669e357e79ef48af80"
     },
     {
       "id": "orbit-store-ps5",
