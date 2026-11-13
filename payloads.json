@@ -15,28 +15,28 @@
     },
     {
       "name": "onionHEN",
-      "filename": "onionHEN_v0.9.0.elf",
-      "url": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0/OnionHEN.elf",
+      "filename": "onionHEN_nightly.elf",
+      "url": "https://github.com/aydencharles/onionHEN/releases/download/nightly/OnionHEN.elf",
       "source": "https://github.com/aydencharles/onionHEN/releases",
-      "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/v0.9.0/OnionHEN.elf",
+      "source_direct": "https://github.com/aydencharles/onionHEN/releases/download/nightly/OnionHEN.elf",
       "description": "A homebrew enabler and Toolbox for jailbroken PS5 consoles, built on etaHEN",
-      "last_update": "2026-10-15",
-      "version": "v0.9.0",
+      "last_update": "2026-11-12",
+      "version": "nightly",
       "category": "Latest",
-      "checksum": "1f1f7c883d5d998be1d95d7d80b718f85180f8156f257661b0f445a7c6b7c212"
+      "checksum": "d0620cc430c10ac2bc7776bd10265742075c7b782b5c8c3fd05cf46e752ed49e"
     },
     {
       "id": "ps5upload",
       "name": "PS5 Upload",
-      "filename": "ps5upload_v12.4.7.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.7/ps5upload-12.4.7.elf",
+      "filename": "ps5upload_v12.4.14.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.14/ps5upload-12.4.14.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.7/ps5upload-12.4.7.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.14/ps5upload-12.4.14.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
-      "last_update": "2026-11-11",
-      "version": "v12.4.7",
+      "last_update": "2026-11-12",
+      "version": "v12.4.14",
       "category": "Latest",
-      "checksum": "721d9dbca1e05c73aa58bdf4fe5093b4caf35f775a1d8702b080920ecb2111ab"
+      "checksum": "17dc0827d3d49701534a8b2f7dca337ec88f213eb825ed028763be5eeec72f7e"
     },
     {
       "id": "orbit-store-ps5",
