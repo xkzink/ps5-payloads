@@ -60,7 +60,7 @@ def asset_checksum(asset):
 
 def updated_payload(payload, release, asset_name):
     tag = release["tag_name"]
-    if not re.fullmatch(r"v?\d[\w.\-]*", tag, flags=re.ASCII):
+    if not re.fullmatch(r"[a-zA-Z0-9][\w.\-]*", tag, flags=re.ASCII):
         raise ValueError(f"Unsupported version tag: {tag!r}")
 
     asset_name = asset_name.format(version=tag.removeprefix("v"))
@@ -71,7 +71,15 @@ def updated_payload(payload, release, asset_name):
 
     # Preserve the filename family when updating the release version.
     stem = Path(payload["filename"]).stem
-    prefix = re.split(r"[_-]v?\d", stem, maxsplit=1, flags=re.IGNORECASE)[0]
+    previous_version = payload.get("version", "")
+    suffix = next(
+        (f"{separator}{previous_version}" for separator in ("_", "-")
+         if previous_version and stem.endswith(f"{separator}{previous_version}")),
+        None,
+    )
+    prefix = stem.removesuffix(suffix) if suffix else re.split(
+        r"[_-]v?\d", stem, maxsplit=1, flags=re.IGNORECASE
+    )[0]
 
     result = dict(payload)
     result.update(
