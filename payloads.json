@@ -28,28 +28,28 @@
     {
       "id": "ps5upload",
       "name": "PS5 Upload",
-      "filename": "ps5upload_v12.4.17.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.17/ps5upload-12.4.17.elf",
+      "filename": "ps5upload_v12.4.20.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.20/ps5upload-12.4.20.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.17/ps5upload-12.4.17.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.20/ps5upload-12.4.20.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
-      "last_update": "2026-11-13",
-      "version": "v12.4.17",
+      "last_update": "2026-11-14",
+      "version": "v12.4.20",
       "category": "Latest",
-      "checksum": "f145f543338cab0b5f67946d1b98c4cc2dab1ca6e898f088da41e525fb0c6903"
+      "checksum": "23584161eb851eca7185ede538387da8a280cfc84092e0c3dff488e41975cbba"
     },
     {
       "id": "orbit-store-ps5",
       "name": "Orbit Store (Beta)",
-      "filename": "orbit_store_v1.9.0.elf",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.0/orbit_store.elf",
+      "filename": "orbit_store_v1.9.1.elf",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.1/orbit_store.elf",
       "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-      "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.0/orbit_store.elf",
+      "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.1/orbit_store.elf",
       "description": "A PS5 download manager with a browser interface and phone controls.",
-      "last_update": "2026-11-13",
-      "version": "v1.9.0",
+      "last_update": "2026-11-15",
+      "version": "v1.9.1",
       "category": "Latest",
-      "checksum": "4d2b78ad4c0de1211b93664d5401beb1e19e54452fccc74886d4cb63b659439a"
+      "checksum": "88caf08827cd8141fc18e1d293480633343e0f6f92aa9a43e07de8ee5a497738"
     }
   ]
 }
