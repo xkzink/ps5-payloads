@@ -23,20 +23,20 @@
       "last_update": "2026-11-12",
       "version": "nightly",
       "category": "Latest",
-      "checksum": "d0620cc430c10ac2bc7776bd10265742075c7b782b5c8c3fd05cf46e752ed49e"
+      "checksum": "db56838865c42e01bae921c197e4753d9388de4ff2930937be5f3666be5be19d"
     },
     {
       "id": "ps5upload",
       "name": "PS5 Upload",
-      "filename": "ps5upload_v12.4.20.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.20/ps5upload-12.4.20.elf",
+      "filename": "ps5upload_v12.4.23.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.23/ps5upload-12.4.23.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.20/ps5upload-12.4.20.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.4.23/ps5upload-12.4.23.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
-      "last_update": "2026-11-14",
-      "version": "v12.4.20",
+      "last_update": "2026-11-15",
+      "version": "v12.4.23",
       "category": "Latest",
-      "checksum": "23584161eb851eca7185ede538387da8a280cfc84092e0c3dff488e41975cbba"
+      "checksum": "ef1a7e246158ce9dbbeb99bf0057f044c45a6a07b713a12a7575d4345147bba3"
     },
     {
       "id": "orbit-store-ps5",
