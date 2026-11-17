@@ -13,6 +13,8 @@ ASSETS = {
     "aydencharles/onionHEN": "OnionHEN.elf",
     "phantomptr/ps5upload": "ps5upload-{version}.elf",
     "saawant12/orbit-store-ps5": "orbit_store.elf",
+    "quer3q/kraken-mount": "kraken-mount.elf",
+    "quer3q/ps5-dump-forge": "ps5-dump-forge-{version}-ps5.elf",
 }
 
 
