@@ -28,28 +28,28 @@
     {
       "id": "ps5upload",
       "name": "PS5 Upload",
-      "filename": "ps5upload_v12.6.10.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.10/ps5upload-12.6.10.elf",
+      "filename": "ps5upload_v12.6.14.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.14/ps5upload-12.6.14.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.10/ps5upload-12.6.10.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.14/ps5upload-12.6.14.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
-      "last_update": "2026-11-19",
-      "version": "v12.6.10",
+      "last_update": "2026-11-20",
+      "version": "v12.6.14",
       "category": "Latest",
-      "checksum": "81a51ed76ba8b1901fc064620dbe36c77bb458600bfe53f17aa2fce273e7271f"
+      "checksum": "416e5791c488bc92eeb7d573ed7b798183416aae2d42e5212f3a3faf8bbc707f"
     },
     {
       "id": "orbit-store-ps5",
       "name": "Orbit Store (Beta)",
-      "filename": "orbit_store_v1.9.2.elf",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.2/orbit_store.elf",
+      "filename": "orbit_store_v1.9.5.elf",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.5/orbit_store.elf",
       "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-      "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.2/orbit_store.elf",
+      "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.5/orbit_store.elf",
       "description": "A PS5 download manager with a browser interface and phone controls.",
-      "last_update": "2026-11-16",
-      "version": "v1.9.2",
+      "last_update": "2026-11-19",
+      "version": "v1.9.5",
       "category": "Latest",
-      "checksum": "5fe4892269ebe940731d0236cd1bbca8d827e7690676f7b7af32fb9c5a775f5b"
+      "checksum": "95da321dcfa054fe355e1d820e50163b3ee4da1410a9a2aa72213d7626b2d3b9"
     },
     {
       "id": "kraken-mount",
