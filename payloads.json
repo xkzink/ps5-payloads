@@ -28,15 +28,15 @@
     {
       "id": "ps5upload",
       "name": "PS5 Upload",
-      "filename": "ps5upload_v12.6.14.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.14/ps5upload-12.6.14.elf",
+      "filename": "ps5upload_v12.6.17.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.17/ps5upload-12.6.17.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.14/ps5upload-12.6.14.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.17/ps5upload-12.6.17.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
       "last_update": "2026-11-20",
-      "version": "v12.6.14",
+      "version": "v12.6.17",
       "category": "Latest",
-      "checksum": "416e5791c488bc92eeb7d573ed7b798183416aae2d42e5212f3a3faf8bbc707f"
+      "checksum": "2bf4c7ebee49c06e0517040a68f6e6458826bcaca49f435c6151aeb108c65ee4"
     },
     {
       "id": "orbit-store-ps5",
@@ -54,15 +54,15 @@
     {
       "id": "kraken-mount",
       "name": "Kraken Mount",
-      "filename": "kraken-mount_v0.3.0.elf",
-      "url": "https://github.com/quer3q/kraken-mount/releases/download/v0.3.0/kraken-mount.elf",
+      "filename": "kraken-mount_v0.3.1.elf",
+      "url": "https://github.com/quer3q/kraken-mount/releases/download/v0.3.1/kraken-mount.elf",
       "source": "https://github.com/quer3q/kraken-mount/releases",
-      "source_direct": "https://github.com/quer3q/kraken-mount/releases/download/v0.3.0/kraken-mount.elf",
+      "source_direct": "https://github.com/quer3q/kraken-mount/releases/download/v0.3.1/kraken-mount.elf",
       "description": "A PS5 game mounter supporting PKG files and game folders, including zstd and LZ4 compression.",
-      "last_update": "2026-11-18",
-      "version": "v0.3.0",
+      "last_update": "2026-11-20",
+      "version": "v0.3.1",
       "category": "Latest",
-      "checksum": "092623a204b707b89d0867a0087f9dd1c430eef6a22db497f03b59aaf1297bfe"
+      "checksum": "3ec636a6b42ceff61ac7aa47e0ed01a41be851da94cfcf3158811995ea868b27"
     },
     {
       "id": "ps5-dump-forge",
