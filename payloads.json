@@ -28,15 +28,15 @@
     {
       "id": "ps5upload",
       "name": "PS5 Upload",
-      "filename": "ps5upload_v12.6.18.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.18/ps5upload-12.6.18.elf",
+      "filename": "ps5upload_v12.6.23.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.23/ps5upload-12.6.23.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.18/ps5upload-12.6.18.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.23/ps5upload-12.6.23.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
-      "last_update": "2026-11-22",
-      "version": "v12.6.18",
+      "last_update": "2026-11-23",
+      "version": "v12.6.23",
       "category": "Latest",
-      "checksum": "6a1264fc02d39617c19b8cbe1afa381d6cb002c235e45cceebb310ba512aa4c1"
+      "checksum": "68a4c2135477aa0d2a9f396565c50cac7d672bbc0f158e718986616a14c6b71b"
     },
     {
       "id": "orbit-store-ps5",
@@ -67,15 +67,15 @@
     {
       "id": "ps5-dump-forge",
       "name": "PS5 Dump Forge",
-      "filename": "ps5-dump-forge_v0.5.6.elf",
-      "url": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.6/ps5-dump-forge-0.5.6-ps5.elf",
+      "filename": "ps5-dump-forge_v0.5.7.elf",
+      "url": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.7/ps5-dump-forge-0.5.7-ps5.elf",
       "source": "https://github.com/quer3q/ps5-dump-forge/releases",
-      "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.6/ps5-dump-forge-0.5.6-ps5.elf",
+      "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.7/ps5-dump-forge-0.5.7-ps5.elf",
       "description": "A PS5 toolkit for converting, editing, compressing, and transferring game dumps through a browser interface.",
-      "last_update": "2026-11-16",
-      "version": "v0.5.6",
+      "last_update": "2026-11-22",
+      "version": "v0.5.7",
       "category": "Latest",
-      "checksum": "f0415aab6ded1cdf875418b6683ab56aeae3721492af99fba71b08c2c351f82f"
+      "checksum": "83a7e82a9070a671953d96e4acfc909697505281e4a023a2c6411316c2c1ce6c"
     }
   ]
 }
