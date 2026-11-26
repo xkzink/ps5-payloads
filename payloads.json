@@ -39,19 +39,6 @@
       "checksum": "db18b4299ce969c6df2adaccddc5014cc80406eac3ec783cbbacd9f0d39c14f9"
     },
     {
-      "id": "orbit-store-ps5",
-      "name": "Orbit Store (Beta)",
-      "filename": "orbit_store_v1.9.7.elf",
-      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.7/orbit_store.elf",
-      "source": "https://github.com/saawant12/orbit-store-ps5/releases",
-      "source_direct": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.7/orbit_store.elf",
-      "description": "A PS5 download manager with a browser interface and phone controls.",
-      "last_update": "2026-11-23",
-      "version": "v1.9.7",
-      "category": "Latest",
-      "checksum": "4e62fd3f7ab9f81686b22d0f641048ea8a044206fa6a00dc1c87ad7a2ad97f99"
-    },
-    {
       "id": "kraken-mount",
       "name": "Kraken Mount",
       "filename": "kraken-mount_v0.3.2.elf",
