@@ -28,41 +28,41 @@
     {
       "id": "ps5upload",
       "name": "PS5 Upload",
-      "filename": "ps5upload_v12.6.31.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.31/ps5upload-12.6.31.elf",
+      "filename": "ps5upload_v12.6.38.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.38/ps5upload-12.6.38.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.31/ps5upload-12.6.31.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.38/ps5upload-12.6.38.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
-      "last_update": "2026-11-26",
-      "version": "v12.6.31",
+      "last_update": "2026-11-27",
+      "version": "v12.6.38",
       "category": "Latest",
-      "checksum": "57bc3a0df33226c7f37c9d870aa21ec549dedb2414c09e8c47e647d14f125e45"
+      "checksum": "da4ec888e0c1d2d4e43f97d71b0ebdca7fdf7aa08a2b019a4a142db709f6dbda"
     },
     {
       "id": "kraken-mount",
       "name": "Kraken Mount",
-      "filename": "kraken-mount_v0.4.0.elf",
-      "url": "https://github.com/quer3q/kraken-mount/releases/download/v0.4.0/kraken-mount.elf",
+      "filename": "kraken-mount_v0.4.1.elf",
+      "url": "https://github.com/quer3q/kraken-mount/releases/download/v0.4.1/kraken-mount.elf",
       "source": "https://github.com/quer3q/kraken-mount/releases",
-      "source_direct": "https://github.com/quer3q/kraken-mount/releases/download/v0.4.0/kraken-mount.elf",
+      "source_direct": "https://github.com/quer3q/kraken-mount/releases/download/v0.4.1/kraken-mount.elf",
       "description": "A PS5 game mounter supporting PKG files and game folders, including zstd and LZ4 compression.",
-      "last_update": "2026-11-25",
-      "version": "v0.4.0",
+      "last_update": "2026-11-26",
+      "version": "v0.4.1",
       "category": "Latest",
-      "checksum": "6c778613b796039230f6690a16e4c04a76069a6b7b6c8030e292f54e904cc401"
+      "checksum": "88d39545728f4202421616a299467545afe7f9b295b636f7bd49b1f2fe1aad1d"
     },
     {
       "id": "ps5-dump-forge",
       "name": "PS5 Dump Forge",
-      "filename": "ps5-dump-forge_v0.5.7.elf",
-      "url": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.7/ps5-dump-forge-0.5.7-ps5.elf",
+      "filename": "ps5-dump-forge_v0.6.0.elf",
+      "url": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.6.0/ps5-dump-forge-0.6.0-ps5.elf",
       "source": "https://github.com/quer3q/ps5-dump-forge/releases",
-      "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.5.7/ps5-dump-forge-0.5.7-ps5.elf",
+      "source_direct": "https://github.com/quer3q/ps5-dump-forge/releases/download/v0.6.0/ps5-dump-forge-0.6.0-ps5.elf",
       "description": "A PS5 toolkit for converting, editing, compressing, and transferring game dumps through a browser interface.",
-      "last_update": "2026-11-22",
-      "version": "v0.5.7",
+      "last_update": "2026-11-26",
+      "version": "v0.6.0",
       "category": "Latest",
-      "checksum": "83a7e82a9070a671953d96e4acfc909697505281e4a023a2c6411316c2c1ce6c"
+      "checksum": "420265c626d517ed433ecf360092dc28e1061fd0ac29346de488c41cde3ac0d2"
     }
   ]
 }
