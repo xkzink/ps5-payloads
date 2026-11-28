@@ -14,6 +14,7 @@ ASSETS = {
     "phantomptr/ps5upload": "ps5upload-{version}.elf",
     "quer3q/kraken-mount": "kraken-mount.elf",
     "quer3q/ps5-dump-forge": "ps5-dump-forge-{version}-ps5.elf",
+    "ZiZc3/VI-Patch": "vi-patch.elf",
 }
 
 

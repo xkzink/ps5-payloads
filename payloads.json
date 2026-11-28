@@ -63,6 +63,19 @@
       "version": "v0.6.0",
       "category": "Latest",
       "checksum": "420265c626d517ed433ecf360092dc28e1061fd0ac29346de488c41cde3ac0d2"
+    },
+    {
+      "id": "vi-patch",
+      "name": "VI-Patch",
+      "filename": "vi-patch_v1.5.elf",
+      "url": "https://github.com/ZiZc3/VI-Patch/releases/download/v1.5/vi-patch.elf",
+      "source": "https://github.com/ZiZc3/VI-Patch/releases",
+      "source_direct": "https://github.com/ZiZc3/VI-Patch/releases/download/v1.5/vi-patch.elf",
+      "description": "Frame rate, resolution, and weather patches for Grand Theft Auto VI on PS5 (PPSA38500, game version 01.002.001).",
+      "last_update": "2026-11-28",
+      "version": "v1.5",
+      "category": "Latest",
+      "checksum": "137b5a337ad99c631f842c3122b4545651ec1f221d2c049e114334015587c249"
     }
   ]
 }
