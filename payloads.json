@@ -28,15 +28,15 @@
     {
       "id": "ps5upload",
       "name": "PS5 Upload",
-      "filename": "ps5upload_v12.6.46.elf",
-      "url": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.46/ps5upload-12.6.46.elf",
+      "filename": "ps5upload_v13.0.1.elf",
+      "url": "https://github.com/phantomptr/ps5upload/releases/download/v13.0.1/ps5upload-13.0.1.elf",
       "source": "https://github.com/phantomptr/ps5upload/releases",
-      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v12.6.46/ps5upload-12.6.46.elf",
+      "source_direct": "https://github.com/phantomptr/ps5upload/releases/download/v13.0.1/ps5upload-13.0.1.elf",
       "description": "A PS5 payload for resumable uploads, package installation, file management, and console control with PS5 Upload.",
       "last_update": "2026-11-28",
-      "version": "v12.6.46",
+      "version": "v13.0.1",
       "category": "Latest",
-      "checksum": "d762e1e3c65f36ed2d1cacce129a612c4777755684560b600a1e216dd445813a"
+      "checksum": "7f052f795af19eb0bd2548d84c0bf3f56661e8b728877bf2aeb30fbd5e486410"
     },
     {
       "id": "kraken-mount",
